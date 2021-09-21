@@ -1,0 +1,67 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "username": "anja_Junghans",
+      "avatar": "https://randomuser.me/api/portraits/men/85.jpg",
+      "img": "https://images.unsplash.com/photo-1625052089517-4df1ede22106?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&h=600",
+      "tags": "#flowershop #flowerphotography #flowerlover #flowergram #flowerstalking #flowerchild #flowerlove #flowerart ",
+      "discription": "n other words, a computer can not produce absolutely random numbers without additional peripherals. In this case we call it pseudo-random numbers.",
+      "likes": "6645435"
+    },
+    {
+      "id": 2,
+      "username": "omar_dc",
+      "avatar": "https://randomuser.me/api/portraits/men/60.jpg",
+      "img": "https://images.unsplash.com/photo-1627883749168-c2c8f0b9c5c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&h=600",
+      "tags": "#flowers #flower #flowerstagram #flowerpower #flowersofinstagram",
+      "discription": "Theoretically, several different methods are used in this generator to generate pseudo-random values.",
+      "likes": "45342"
+    },
+    {
+      "id": 3,
+      "username": "shadezahrai",
+      "avatar": "https://randomuser.me/api/portraits/men/27.jpg",
+      "img": "https://images.unsplash.com/photo-1628126310646-954bf21d163c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&h=600",
+      "tags": "#toycar #toycars #toycarsplanet #toycarcollection #toycarpics",
+      "discription": "The previous random number generators produce relatively good random numbers, which, however, can further be improved. ",
+      "likes": "34512"
+    },
+    {
+      "id": 4,
+      "username": "ironman",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg",
+      "img": "https://images.unsplash.com/photo-1628148366072-3337dd316e17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&h=600",
+      "tags": "#dog #dogsofinstagram #dogs #dogstagram #doglover ",
+      "discription": "The random order is therefore always generated on server-side",
+      "likes": "34512"
+    },
+    {
+      "id": 5,
+      "username": "captain_sam",
+      "avatar": "https://randomuser.me/api/portraits/men/10.jpg",
+      "img": "https://images.unsplash.com/photo-1628026552437-59305f353694?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&h=600",
+      "tags": "#Space #spacer #spaceship #spacex #spaces #spaceart #spacegrey #spaceneedle #spacebuns #spacestation",
+      "discription": "Randomly generate your human character's looks and physical description for realistic, anime or unique characters.",
+      "likes": "1254532"
+    },
+    {
+      "id": 6,
+      "username": "wanda_vision",
+      "avatar": "https://randomuser.me/api/portraits/men/26.jpg",
+      "img": "https://images.unsplash.com/photo-1628003549507-3b67bc8a4d08?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&h=600",
+      "tags": "#lonelyplanet #lonely #lonelyplanetindia #lonelyplanettraveller",
+      "discription": "Product Description Generator for eCommerce. Get unique & original descriptions for your store in no time. DIY & DFY options available",
+      "likes": "123232"
+    },
+    {
+      "id": 7,
+      "username": "ms_marvel",
+      "avatar": "https://randomuser.me/api/portraits/women/0.jpg",
+      "img": "https://images.unsplash.com/photo-1628081393387-149d4e1e2f5b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&h=600",
+      "tags": "#iphone #iphoneonly #iphonesia #iphoneography #iphone6 #iphonephotography #iphoneshot",
+      "discription": "Seventh Sanctum: the page of generators - random tools for art, gaming, writing, and imagination.",
+      "likes": "1200"
+    }
+  ]
+}
