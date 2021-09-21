@@ -3,7 +3,6 @@
 ## React Js + Next Js + Tailwind Css + json-server
 
 ![N|Solid](https://github.com/sen2ran/noon-assessment/blob/main/Screenshot.gif?raw=true)
-![N|Solid](https://github.com/sen2ran/noon-assessment/blob/main/Screenshot1.gif?raw=true)
 ### Tech
 
 #### Fronend
